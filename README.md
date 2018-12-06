@@ -1,2 +1,3 @@
 # Fantasy_Hockey
-# Celsius-to-Fahrenheit
+
+I cloned this repo from @yahoo-fantasy/nfl-fantasy-football. 
