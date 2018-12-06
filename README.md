@@ -1,3 +1,5 @@
+The information below was provided from the Yahoo-fantasy/yahoo-nfl-fantasy repo. I cloned their repo and followed the instructions below to customize for my personal Fantasy NHL league. This is still a work-in-progress.
+
 =============================================================================
 ## This guide will get you started pulling data from your Yahoo Fantasy Football League
 =============================================================================
