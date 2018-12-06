@@ -1,0 +1,14 @@
+{
+'Too Many Cooks': 'KB 1',
+'Diggs out 4 Harambe': 'AM 2',
+'The Hebrew Hammer': 'D 3',
+'THE BIG TRUBISKY': 'NP 4',
+'SaveBig$ @ Bernards': 'JB 5',
+'Packerbackers': 'AF 6',
+'E6 and EClam': 'ER 7',
+'Papa Bohagen': 'MM 8',
+'Kevinthedogs Team': 'KK 9',
+'Schlong0McDong0': 'PN 10',
+'Nicks Team': 'N 11',
+'Learn 2 Swim': 'MB 12'
+}

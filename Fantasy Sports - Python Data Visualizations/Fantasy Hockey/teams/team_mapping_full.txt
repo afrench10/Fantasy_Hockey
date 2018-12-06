@@ -1,0 +1,14 @@
+{
+'Too Many Cooks': 'Kyle Brown 1',
+'Diggs out 4 Harambe': 'Alex M 2',
+'The Hebrew Hammer': 'Daniel 3',
+'THE BIG TRUBISKY': 'Nate Pacelli 4',
+'SaveBig$ @ Bernards': 'Joey/Brett 5',
+'Packerbackers': 'Sean Finley/Alex French 6',
+'E6 and EClam': 'Eric R/oOo 7',
+'Papa Bohagen': 'Max Mohagen/momo 8',
+'Kevinthedogs Team': 'Kevinthedog/Kevin Kotek 9',
+'Schlong0McDong0': 'Patrick/Nicholas Rebellato 10',
+'Nicks Team': 'Nick 11',
+'Learn 2 Swim': 'Marc Bartolini 12'
+}
